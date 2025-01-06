@@ -37,3 +37,18 @@ This repository tracks my daily learnings, progress, and related resources. Each
 1. Run the `log_entry.sh` script.
 2. Enter the requested details when prompted.
 3. The script will automatically update this file.
+
+---
+
+#### 2025-01-6 - Nodes | Shards | Indexes | Types of Nodes
+**Summary**:  
+> Elasticsearch all topics defination and RCA in this one topics include Nodes | Types of Nodes | Shards | Indexes | Clusters
+
+**Blog Link**:  
+> [https://www.linkedin.com/feed/update/urn:li:activity:7281825524820156416/](https://www.linkedin.com/feed/update/urn:li:activity:7281825524820156416/)
+
+**Notes Location**:  
+> [in goodNotes](in goodNotes)
+
+**Additional Info**:  
+> 
