@@ -52,3 +52,18 @@ This repository tracks my daily learnings, progress, and related resources. Each
 
 **Additional Info**:  
 > 
+
+---
+
+#### 2025-01-06 - Fork | Worker Thread
+**Summary**:  
+> A brief defination and summary and difference between fork and worker thread....
+
+**Blog Link**:  
+> []()
+
+**Notes Location**:  
+> [In notion NodeJs panel](In notion NodeJs panel)
+
+**Additional Info**:  
+> 
