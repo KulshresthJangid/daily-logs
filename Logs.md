@@ -67,3 +67,33 @@ This repository tracks my daily learnings, progress, and related resources. Each
 
 **Additional Info**:  
 > 
+
+---
+
+#### 2025-01-08 - Indexes | Shards | Document | Mappings | Token
+**Summary**:  
+> Learned about topics like indexes shards documents and mappings and token topics in elasticsearch
+
+**Blog Link**:  
+> []()
+
+**Notes Location**:  
+> [Good notes](Good notes)
+
+**Additional Info**:  
+> ELASTICSEARCH
+
+---
+
+#### 2025-01-10 - Query DSL | Filters | Relevance Scoring | Aggregations | Indexing | Bulk API | Ingest Pipelines  | Dynamic Mapping
+**Summary**:  
+> Learned about the tiopics in elasticsearch
+
+**Blog Link**:  
+> []()
+
+**Notes Location**:  
+> [Goodnotes](Goodnotes)
+
+**Additional Info**:  
+> 
